@@ -1,0 +1,17 @@
+OUTPUT CHECK
+============
+Q1: Prints the complete regression dataset.
+Q2: Prints first 5 and last 5 rows.
+Q3: Prints info() and descriptive statistics.
+Q5: Prints training and testing sample counts.
+Q7: Prints coefficient and intercept.
+Q8/Q10/Q15: Prints actual vs predicted values.
+Q9/Q16/Q21/Q30: Opens the requested visualization.
+Q24-Q27: Prints MAE, MSE, RMSE and R².
+Q29: Explains that lower MSE and higher R² generally indicate better performance.
+Q31-Q32: Prints R² before/after feature scaling.
+Q33: Uses the Scikit-learn Diabetes dataset.
+Q34: Creates linear_regression_model.joblib.
+Q35: Loads that model and predicts new input.
+
+Exact numeric values may vary slightly with library versions.
